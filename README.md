@@ -30,6 +30,7 @@
 ## My socials 📱
 - [Twitter](https://twitter.com/pauzedemrd)
 - [Instagram](https://www.instagram.com/pauzedemrd/)
+- [Spotify](https://open.spotify.com/user/3ofjkrqmuc9s0voh8byq8kagr?si=1aca94e18cbd4386)
 - [RateYourMusic (yeah im pretentious ok!?!?!?)](https://rateyourmusic.com/~infraser)
 - [Last.fm](https://www.last.fm/user/pauzeql)
 - Discord: @65j
