@@ -1,9 +1,10 @@
 ## Hey 👋, I'm David >_<
 <div align="left">
-  <img src="https://img.shields.io/badge/Age-18-23ba71"/>  
+  <img src="https://img.shields.io/badge/Age-19-23ba71"/>  
   <img src="https://img.shields.io/badge/Live%20In-Chile-eb152d"/>  
-  <img src="https://img.shields.io/badge/he-him-blue"/>  
-  <img src="https://raw.githubusercontent.com/joypixels/pride-emoji-flags/master/svg/bisexual-flag.svg" height="20"/>  
+  <img src="https://img.shields.io/badge/they-them-blue"/>  
+  <img src="https://raw.githubusercontent.com/joypixels/pride-emoji-flags/master/svg/nonbinary-flag.svg" height="20"/>  
+  <img src="https://raw.githubusercontent.com/joypixels/pride-emoji-flags/master/svg/pansexual-flag.svg" height="20"/>  
 </div>
 
 #### I'm currently studying Software Engineering in the Pontificia Universidad Católica de Chile! ^-^
