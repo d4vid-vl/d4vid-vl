@@ -16,7 +16,7 @@
 <h2 align=center>Languages and Stuff I use! 🖥️</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ableton,bash,c,cpp,go,notion,obsidian,py,rust,vim,vscode"/>
+    <img src="https://skillicons.dev/icons?i=ableton,bash,c,cpp,go,julia,notion,obsidian,py,react,rust,ts,vim,vscode"/>
   </a>
 </div>
 
