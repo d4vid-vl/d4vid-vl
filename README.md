@@ -16,7 +16,7 @@
 <h2 align=center>Languages and Stuff I use! 🖥️</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ableton,bash,c,cpp,go,julia,notion,obsidian,py,react,rust,ts,vim,vscode"/>
+    <img src="https://skillicons.dev/icons?i=ableton,bash,cmake,c,cpp,go,julia,obsidian,ps,pr,py,react,rust,ts,vim"/>
   </a>
 </div>
 
@@ -33,3 +33,4 @@
 - [RateYourMusic (yeah im pretentious ok!?!?!?)](https://rateyourmusic.com/~infraser)
 - [Last.fm](https://www.last.fm/user/pauzeql)
 - Discord: @65j
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C5LKK46)
