@@ -13,10 +13,17 @@
 - 📈 Currently working more on myself, mentally a physically ^^
 - 💖 Check out my bf's github! [Aaron](https://github.com/akmav9jse) 💜
 
-<h2 align=center>Languages and Stuff I use! 🖥️</h2>
+<h2 align=center>Stuff I use(d)! 🖥️</h2>
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ableton,bash,cmake,c,cpp,go,julia,obsidian,ps,pr,py,react,rust,ts,vim"/>
+  <a>
+    <h5 align="center">OS's</h5>
+    <img src="https://skillicons.dev/icons?i=apple,arch,debian,nix,linux,windows"/>
+    <h5 align="center">Languages/Frameworks</h5>
+    <img src="https://skillicons.dev/icons?i=cmake,c,cpp,go,julia,py,react,rust,ts"/>
+    <h5 align="center">Productivity</h5>
+    <img src="https://skillicons.dev/icons?i=docker,emacs,git,nginx,stackoverflow,vim"/>
+    <h5 align="center">Miscellaneous</h5>
+    <img src="https://skillicons.dev/icons?i=ableton,bash,discord,ps,pr,twitter"/>
   </a>
 </div>
 
