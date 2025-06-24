@@ -1,6 +1,6 @@
 <h2 align=center>Hey 👋, I'm David >_<</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Age-19-23ba71"/>  
+  <img src="https://img.shields.io/badge/Age-20-23ba71"/>  
   <img src="https://img.shields.io/badge/Live%20In-Chile-eb152d"/>  
   <img src="https://img.shields.io/badge/they-them-blue"/>  
   <img src="https://raw.githubusercontent.com/joypixels/pride-emoji-flags/master/svg/nonbinary-flag.svg" height="20"/>  
