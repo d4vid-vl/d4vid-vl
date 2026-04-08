@@ -11,7 +11,7 @@
 - ⚖️ I usually do this for a hobby, soon as a job
 - 🎧 Other hobbies I have are making music, listening music and playing games :P
 - 📈 Currently working more on myself, mentally a physically ^^
-- 💖 Check out my bf's github! [Aaron](https://github.com/akmav9jse) 💜
+- 💖 Check out my bf's github! [Aaron](https://github.com/glowwz) 💜
 
 <h2 align=center>Stuff I use(d)! 🖥️</h2>
 <div align="center">
