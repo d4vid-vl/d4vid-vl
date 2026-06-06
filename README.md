@@ -1,6 +1,6 @@
 <h2 align=center>Hey 👋, I'm David >_<</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Age-20-23ba71"/>  
+  <img src="https://img.shields.io/badge/Age-21-23ba71"/>  
   <img src="https://img.shields.io/badge/Live%20In-Chile-eb152d"/>  
   <img src="https://img.shields.io/badge/they-them-blue"/>  
   <img src="https://raw.githubusercontent.com/joypixels/pride-emoji-flags/master/svg/nonbinary-flag.svg" height="20"/>  
@@ -9,7 +9,7 @@
 
 - 📝 I'm currently studying Software Engineering in the Pontificia Universidad Católica de Chile! ^-^
 - ⚖️ I usually do this for a hobby, soon as a job
-- 🎧 Other hobbies I have are making music, listening music and playing games :P
+- 🎧 Other hobbies I have are making music, listening to music and playing games :P
 - 📈 Currently working more on myself, mentally a physically ^^
 - 💖 Check out my bf's github! [Aaron](https://github.com/glowwz) 💜
 
@@ -19,9 +19,9 @@
     <h5 align="center">OS's</h5>
     <img src="https://skillicons.dev/icons?i=apple,arch,debian,nix,linux,windows"/>
     <h5 align="center">Languages/Frameworks</h5>
-    <img src="https://skillicons.dev/icons?i=cmake,c,cpp,go,julia,py,react,rust,ts"/>
+    <img src="https://skillicons.dev/icons?i=cmake,c,cpp,go,py,rails,rust"/>
     <h5 align="center">Productivity</h5>
-    <img src="https://skillicons.dev/icons?i=docker,emacs,git,nginx,stackoverflow,vim"/>
+    <img src="https://skillicons.dev/icons?i=docker,emacs,git,gitlab,neovim,nginx,postgres,stackoverflow"/>
     <h5 align="center">Miscellaneous</h5>
     <img src="https://skillicons.dev/icons?i=ableton,bash,discord,ps,pr,twitter"/>
   </a>
@@ -36,10 +36,10 @@
 
 ## My socials 📱
 - [Twitter](https://twitter.com/pauzedemrd)
-- [Instagram](https://www.instagram.com/pauzedemrd/)
+- [Instagram](https://www.instagram.com/davidreql/)
 - [Spotify](https://open.spotify.com/user/3ofjkrqmuc9s0voh8byq8kagr?si=1aca94e18cbd4386)
-- [RateYourMusic (yeah im pretentious ok!?!?!?)](https://rateyourmusic.com/~infraser)
+- [RateYourMusic (yeah im pretentious ok!?!?!?)](https://rateyourmusic.com/~pauz)
 - [Last.fm](https://www.last.fm/user/pauzeql)
-- Discord: @65j
+- Discord: @pauzedemrd
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C5LKK46)
